@@ -67,6 +67,23 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <pubDate>Thu, 11 Jun 2026 14:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>HTH-post</title>
+  <link>https://your-website-url.example.com/posts/HTH post/HTH-post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is another attempt at creating a post. We are at the Health Translation Hub. We troubleshooted a problem and became familiar with the process.</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/HTH post/HTH-post.html</guid>
+  <pubDate>Mon, 15 Jun 2026 04:03:18 GMT</pubDate>
+</item>
+<item>
   <title>new-post</title>
   <link>https://your-website-url.example.com/posts/new-post/</link>
   <description><![CDATA[ 
@@ -81,7 +98,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/new-post/</guid>
-  <pubDate>Mon, 15 Jun 2026 03:57:03 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 04:03:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
